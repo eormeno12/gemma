@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2d15a45-0544-4c34-a4e4-663d2c06ed1d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zj67cK1RTHL3edFNtDQdDVi88A" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ceo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ceo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ceo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ceo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2d15a45-0544-4c34-a4e4-663d2c06ed1d" name="Default Changelist" comment="" />
+      <created>1634648983546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634648983546</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1899" height="375" key="GridCell.Tab.0.bottom" timestamp="1635990294477">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="307" key="GridCell.Tab.0.bottom/0.25.1920.1119@0.25.1920.1119" timestamp="1634676578194" />
+    <state width="1899" height="375" key="GridCell.Tab.0.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1635990294477" />
+    <state width="1899" height="375" key="GridCell.Tab.0.center" timestamp="1635990294476">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="307" key="GridCell.Tab.0.center/0.25.1920.1119@0.25.1920.1119" timestamp="1634676578192" />
+    <state width="1899" height="375" key="GridCell.Tab.0.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1635990294476" />
+    <state width="1899" height="375" key="GridCell.Tab.0.left" timestamp="1635990294475">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="307" key="GridCell.Tab.0.left/0.25.1920.1119@0.25.1920.1119" timestamp="1634676578191" />
+    <state width="1899" height="375" key="GridCell.Tab.0.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1635990294475" />
+    <state width="1899" height="375" key="GridCell.Tab.0.right" timestamp="1635990294476">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="307" key="GridCell.Tab.0.right/0.25.1920.1119@0.25.1920.1119" timestamp="1634676578192" />
+    <state width="1899" height="375" key="GridCell.Tab.0.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1635990294476" />
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom" timestamp="1635990294481">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.bottom/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1635990294481" />
+    <state width="1899" height="375" key="GridCell.Tab.1.center" timestamp="1635990294479">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.center/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1635990294479" />
+    <state width="1899" height="375" key="GridCell.Tab.1.left" timestamp="1635990294479">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.left/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1635990294479" />
+    <state width="1899" height="375" key="GridCell.Tab.1.right" timestamp="1635990294480">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="375" key="GridCell.Tab.1.right/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1635990294480" />
+    <state x="469" y="219" key="SettingsEditor" timestamp="1634656514818">
+      <screen x="0" y="25" width="1920" height="1119" />
+    </state>
+    <state x="469" y="219" key="SettingsEditor/0.25.1920.1119@0.25.1920.1119" timestamp="1634656514818" />
+    <state x="2317" y="405" key="com.intellij.ide.util.TipDialog" timestamp="1637069867536">
+      <screen x="1680" y="25" width="1920" height="1055" />
+    </state>
+    <state x="637" y="412" key="com.intellij.ide.util.TipDialog/0.25.1920.1119@0.25.1920.1119" timestamp="1634648988337" />
+    <state x="2317" y="389" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.0.1680.1050@1680.0.1920.1080" timestamp="1636380189834" />
+    <state x="2317" y="405" key="com.intellij.ide.util.TipDialog/1680.25.1920.1055/0.0.1680.994@0.0.1680.994" timestamp="1637069867536" />
+    <state x="557" y="379" key="com.intellij.ide.util.TipDialog/1680.25.1920.999/0.25.1680.1025@0.25.1680.1025" timestamp="1635972797396" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
